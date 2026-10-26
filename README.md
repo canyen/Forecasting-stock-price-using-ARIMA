@@ -1,2 +1,2 @@
-# D-b-o-gi-c-phi-u-BID
+# Dự báo giá cổ phiếu bằng ARIMA
 dự báo giá cổ phiếu BID bằng mô hình ARIMA
